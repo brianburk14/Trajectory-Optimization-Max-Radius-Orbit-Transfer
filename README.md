@@ -8,4 +8,4 @@ A plot of the orbits, as well as the thrust direction, should be generated when 
 MATLAB (tested on version R2023a)
 
 ## Additional Information
-The trajectory optimization problem I wanted to solve was a minimum fuel problem. I intended to find the minimum fuel required to transfer from Earth to Mars, but my attempts were unsuccessful (for now), so I decided to find the maximum possible radial transfer to demonstrate my knowledge and interest in trajectory optimization.
+This was a project I did in my Optimal Control and Estimation course when I was an undergrad in college. The next challenge I wanted to do was a trajectory optimization problem involving a minimum fuel problem. I intended to find the minimum fuel required to transfer from Earth to Mars, but my attempts were unsuccessful (for now), so I decided to showcase my expertise in optimal control theory, dynamics, and trajectory optimization.
